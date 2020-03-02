@@ -12,7 +12,7 @@ public class Tipedata{
 		System.out.println("a="+a+" b="+b+"\nMakul="+makul+"\nHuruf="+letterA);
 		System.out.println(d);
 		
-		String nama="ilham";
+		String nama="iska";
 		int umur= 19;
 		System.out.println("nama="+nama+"\numur="+umur);
 	}
